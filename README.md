@@ -8,4 +8,3 @@ I am Suyog Jadhav, a final year undergraduate student at IIT Dhanbad.
 - 📫 Reach out to me @IAmSuyogJadhav on all major social platforms.
 - :black_nib: I occasionally write blogs on [suyogjadhav.com](https://suyogjadhav.com)
 - ⚡ Fun fact: I once wrote a piece of code that worked without any errors right away. 
-- 😄 Pronouns: He/Him
